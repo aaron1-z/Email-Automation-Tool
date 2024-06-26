@@ -16,3 +16,7 @@ dotenv, Axios, bullMQ, google-auth-library, ioredis,
 ## 2. After cloning with "cd" go the directory in which "src" files are located. 
 ## 3. Do "npm start" 
 ## 4. The server will start running on your local machine. 
+
+## Testing API ENDPOINTS WITH POSTMAN
+
+![Screenshot (14)](https://github.com/aaron1-z/ReachInBox/assets/77638360/bf8ceced-c4a9-43e2-b333-a770be5b997d)
