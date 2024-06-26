@@ -20,3 +20,6 @@ dotenv, Axios, bullMQ, google-auth-library, ioredis,
 ## Testing API ENDPOINTS WITH POSTMAN
 
 ![Screenshot (14)](https://github.com/aaron1-z/ReachInBox/assets/77638360/bf8ceced-c4a9-43e2-b333-a770be5b997d)
+
+
+![Screenshot (12)](https://github.com/aaron1-z/ReachInBox/assets/77638360/29a4b340-0176-4d92-b1c0-482753e4d59c)
