@@ -5,8 +5,8 @@ This repository contains an Email Automation Tool that integrates with both Goog
 
 Backend is successfully running on port 3000.
 
-# technologies used:
+# Technologies used:
 Node.js, Express.js, OpenAI, Google APIs, Microsoft Graph API
- # npm packages used
+ # Npm packages used
 dotenv, Axios, bullMQ, google-auth-library, ioredis, 
-@microsoft/microsoft-graph-clien, t@azure/msal-node
+@microsoft/microsoft-graph-client, @azure/msal-node
