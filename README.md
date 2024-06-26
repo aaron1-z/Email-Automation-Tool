@@ -10,3 +10,13 @@ Node.js, Express.js, OpenAI, Google APIs, Microsoft Graph API
  # Npm packages used
 dotenv, Axios, bullMQ, google-auth-library, ioredis, 
 @microsoft/microsoft-graph-client, @azure/msal-node
+
+# Installation setup
+
+Clone the repository to your local machine
+
+Navigate to the root directory of the project directory :
+cd server
+Run npm install to install all the dependencies
+Create a .env file in the root directory with the same IDs as specified in the documentation.
+
