@@ -23,3 +23,5 @@ dotenv, Axios, bullMQ, google-auth-library, ioredis,
 
 
 ![Screenshot (12)](https://github.com/aaron1-z/ReachInBox/assets/77638360/29a4b340-0176-4d92-b1c0-482753e4d59c)
+
+Api endpoints are working. 
