@@ -13,10 +13,3 @@ dotenv, Axios, bullMQ, google-auth-library, ioredis,
 
 # Installation setup
 
-Clone the repository to your local machine
-
-Navigate to the root directory of the project directory :
-cd server
-Run npm install to install all the dependencies
-Create a .env file in the root directory with the same IDs as specified in the documentation.
-
