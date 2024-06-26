@@ -1,5 +1,5 @@
 # ReachInBox
-Here is the explanation video : https://www.loom.com/share/2b40bbeb027b41d2954acfbbd99e0ad7
+Here is the explanation video : https://www.loom.com/share/e86ae470759342b6b7ea4cde6a065dcf?sid=52439a07-db08-47e1-b0e1-eab44fe1e3c7
 
 This repository contains an Email Automation Tool that integrates with both Google and Outlook email accounts. The tool uses OAuth for authentication, processes incoming emails, categorizes them using AI, and sends automated replies based on the email content. It also employs BullMQ for task scheduling to ensure efficient email processing.
 ![Screenshot (11)](https://github.com/aaron1-z/ReachInBox/assets/77638360/5a024269-1e0d-425d-9d31-0d9fc3ab94a5)
