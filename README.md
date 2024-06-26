@@ -12,3 +12,7 @@ dotenv, Axios, bullMQ, google-auth-library, ioredis,
 @microsoft/microsoft-graph-client, @azure/msal-node
 
 # Installation setup
+1.Firstly clone the repo. 
+2. After cloning with "cd" go the directory in which "src" files are located. 
+3. Do "npm start" 
+4. The server will start running on your local machine. 
